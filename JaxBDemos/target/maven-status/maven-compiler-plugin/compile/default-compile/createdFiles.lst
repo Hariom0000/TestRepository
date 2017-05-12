@@ -1,0 +1,4 @@
+com\hariom\JaxB\MarshallXML.class
+com\hariom\JaxB\UnMarshallXML.class
+com\hariom\JaxB\model\Employee.class
+com\hariom\JaxB\model\Address.class

@@ -1,0 +1,3 @@
+com\tavant\hibernate\config\HibernateConfig.class
+com\tavant\hibernate\model\HibernateModel.class
+com\tavant\hibernate\model\SingleTableInheritance.class
